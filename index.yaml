@@ -3,7 +3,7 @@ entries:
   nginx-std:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-07-21T12:39:51.178423+09:00"
+    created: "2023-07-21T12:46:22.281836+09:00"
     description: nginx standard for OlivNetwork
     digest: 1b5c7fae23a9925491595096feda84ad5be0f71d55df3b3de9ab0ce540f06578
     name: nginx-std
@@ -14,7 +14,7 @@ entries:
   redis:
   - apiVersion: v1
     appVersion: 5.0.7
-    created: "2023-07-21T12:39:51.17999+09:00"
+    created: "2023-07-21T12:46:22.283533+09:00"
     deprecated: true
     description: DEPRECATED Open source, advanced key-value store. It is often referred
       to as a data structure server since keys can contain strings, hashes, lists,
@@ -32,4 +32,4 @@ entries:
     urls:
     - redis-10.5.7.tgz
     version: 10.5.7
-generated: "2023-07-21T12:39:51.177729+09:00"
+generated: "2023-07-21T12:46:22.280016+09:00"
